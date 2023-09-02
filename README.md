@@ -20,6 +20,9 @@ showing a visual distribution
 python3 xfmaccess_model.py
 ```
 
+# Viewing Results
+* Figure Output: XFM\_Access\_Distribution.png
+
 ## More information
 
 For more information see our MICRO 2023 paper
